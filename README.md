@@ -1,4 +1,4 @@
-# Hotel Bookings Data Engineering & Analytics
+# Hotel Booking Analysis Dashboard Using Snowflake
 
 An end-to-end hotel bookings data pipeline built using **Snowflake, SQL, Python, and Streamlit**.
 
