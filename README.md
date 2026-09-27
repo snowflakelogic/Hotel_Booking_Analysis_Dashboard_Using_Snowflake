@@ -65,7 +65,7 @@ Created analytics-ready tables from the Silver layer:
 
 The Streamlit dashboard is deployed on Snowflake and can be accessed here:
 
-👉 **[View Live Hotel Booking Dashboard]([URL](https://app.snowflake.com/streamlit/awqhzve/xa35323/#/apps/qgl7e5rlxywzgsojvjx6))**
+👉 **[View Live Hotel Booking Dashboard]([https://app.snowflake.com/streamlit/awqhzve/xa35323/#/apps/qgl7e5rlxywzgsojvjx6](https://app.snowflake.com/streamlit/awqhzve/xa35323/#/apps/qgl7e5rlxywzgsojvjx6))**
 
 > **Note:** Access to the dashboard may require authentication depending on the Snowflake deployment and sharing settings.
 
