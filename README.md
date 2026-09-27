@@ -1,6 +1,6 @@
-# Hotel Booking Analysis Dashboard Using Snowflake
+# Hotel Booking ELT Data Pipeline And Analysis Dashboard
 
-An end-to-end hotel bookings data pipeline built using **Snowflake, SQL, Python, and Streamlit**.
+An end-to-end **ELT data pipeline and analytics solution** built using **Snowflake, SQL, Python, Streamlit, and Altair**
 
 ## 🔄 Data Pipeline
 
