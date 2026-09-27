@@ -1,6 +1,6 @@
 # Hotel Booking ELT Data Pipeline And Analysis Dashboard
 
-An end-to-end **ELT data pipeline and analytics solution** built using **Snowflake, SQL, Python, Streamlit, and Altair**
+An end-to-end **ELT data pipeline and analysis** built using **Snowflake, SQL, Python, Streamlit, and Altair**
 
 ## 🔄 Data Pipeline
 
@@ -31,7 +31,7 @@ An end-to-end **ELT data pipeline and analytics solution** built using **Snowfla
 * Filtered out records with invalid dates and invalid booking periods.
 * Stored the cleaned data in `SILVER_HOTEL_BOOKINGS`.
 
-### 🥇 Gold Layer — Analytics
+### 🥇 Gold Layer — Analysis
 
 Created analytics-ready tables from the Silver layer:
 
@@ -39,7 +39,7 @@ Created analytics-ready tables from the Silver layer:
 * `GOLD_AGG_DAILY_BOOKING` — daily booking count and revenue.
 * `GOLD_AGG_HOTEL_CITY_SALES` — revenue aggregated by hotel city.
 
-### 📊 Analytics Dashboard
+### 📊 Analytsis Dashboard
 
 ![Hotel Booking Dashboard - 1](Hotel_booking_dashboard_1.png)
 
